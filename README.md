@@ -1,2 +1,18 @@
-# yixuan-interview-project
-Temp Repo for YiXuan's Interview Project
+# 逸轩面试项目
+
+你好, 祝贺你马上要开始大学生活.
+
+作为面试的项目
+
+## 记录你的军训生活
+1. 2个短视频(时常1分半最多) 1片笔记 记录你的军训生活 发布在你的小红书上账号上
+> 剪辑风格 参考: https://www.youtube.com/@WillWang/videos
+2. 一个微电影5分钟最多 记录你的军训生活 发布在你的小红书上账号上
+> 记写下大致的 storyline 就是你拍摄记录的故事线
+
+## 上面的视频昨晚之后
+在这个 repo 里面新建一个文件 `yixuan-military-training.md` 通过pull request
+在这个 文件里面 记录你的 上面问电影的 故事线 和发布的视频笔记的链接
+> 任何感想和你创作的思路
+
+
