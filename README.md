@@ -11,8 +11,8 @@
 > 记写下大致的 storyline 就是你拍摄记录的故事线
 
 ## 上面的视频昨晚之后
-在这个 repo 里面新建一个文件 `yixuan-military-training.md` 通过pull request
+在这个 repo 里面新建一个文件 `yixuan-military-training.md` 通过 `pull request`
 在这个 文件里面 记录你的 上面问电影的 故事线 和发布的视频笔记的链接
-> 任何感想和你创作的思路
+> 科技加任何感想和你创作的思路
 
 
